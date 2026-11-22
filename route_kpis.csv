@@ -1,0 +1,178 @@
+﻿Factory,State_Province,Route,shipments,avg_lead_time,lead_time_std,delayed_orders,delay_pct,pct_standard,efficiency_score
+Lot's O' Nuts,Alabama,Lot's O' Nuts -> Alabama,33,4.420000,1.54,5,15.200000000000,63.600000000000,20.9
+Lot's O' Nuts,Arizona,Lot's O' Nuts -> Arizona,107,4.080000,1.96,12,11.200000000000,66.400000000000,38.3
+Lot's O' Nuts,Arkansas,Lot's O' Nuts -> Arkansas,29,4.450000,2.2,8,27.600000000000,69.000000000000,19.4
+Lot's O' Nuts,California,Lot's O' Nuts -> California,1088,3.790000,1.83,67,6.200000000000,56.100000000000,53.1
+Lot's O' Nuts,Colorado,Lot's O' Nuts -> Colorado,99,3.720000,1.8,8,8.100000000000,51.500000000000,56.6
+Lot's O' Nuts,Connecticut,Lot's O' Nuts -> Connecticut,46,3.480000,1.89,0,0.000000000000,50.000000000000,68.9
+Lot's O' Nuts,Delaware,Lot's O' Nuts -> Delaware,42,4.170000,1.85,2,4.800000000000,61.900000000000,33.7
+Lot's O' Nuts,District of Columbia,Lot's O' Nuts -> District of Columbia,8,5.380000,0.92,0,0.000000000000,62.500000000000,NULL
+Lot's O' Nuts,Florida,Lot's O' Nuts -> Florida,202,3.810000,1.84,13,6.400000000000,58.900000000000,52.0
+Lot's O' Nuts,Georgia,Lot's O' Nuts -> Georgia,106,3.830000,1.93,7,6.600000000000,63.200000000000,51.0
+Lot's O' Nuts,Idaho,Lot's O' Nuts -> Idaho,14,3.790000,1.37,0,0.000000000000,64.300000000000,53.1
+Lot's O' Nuts,Illinois,Lot's O' Nuts -> Illinois,260,4.140000,1.52,14,5.400000000000,58.500000000000,35.2
+Lot's O' Nuts,Indiana,Lot's O' Nuts -> Indiana,86,4.160000,1.64,7,8.100000000000,58.100000000000,34.2
+Lot's O' Nuts,Iowa,Lot's O' Nuts -> Iowa,16,4.130000,1.82,1,6.300000000000,62.500000000000,35.7
+Lot's O' Nuts,Kansas,Lot's O' Nuts -> Kansas,15,4.070000,1.39,2,13.300000000000,60.000000000000,38.8
+Lot's O' Nuts,Kentucky,Lot's O' Nuts -> Kentucky,76,3.910000,1.7,5,6.600000000000,46.100000000000,46.9
+Lot's O' Nuts,Louisiana,Lot's O' Nuts -> Louisiana,23,3.130000,1.79,0,0.000000000000,43.500000000000,86.7
+Lot's O' Nuts,Maine,Lot's O' Nuts -> Maine,5,5.200000,0.84,0,0.000000000000,100.000000000000,NULL
+Lot's O' Nuts,Maryland,Lot's O' Nuts -> Maryland,57,3.930000,1.73,1,1.800000000000,61.400000000000,45.9
+Lot's O' Nuts,Massachusetts,Lot's O' Nuts -> Massachusetts,73,3.670000,1.62,4,5.500000000000,53.400000000000,59.2
+Lot's O' Nuts,Michigan,Lot's O' Nuts -> Michigan,143,3.910000,1.91,11,7.700000000000,61.500000000000,46.9
+Lot's O' Nuts,Minnesota,Lot's O' Nuts -> Minnesota,42,4.600000,1.36,6,14.300000000000,81.000000000000,11.7
+Lot's O' Nuts,Mississippi,Lot's O' Nuts -> Mississippi,30,4.000000,1.8,2,6.700000000000,66.700000000000,42.3
+Lot's O' Nuts,Missouri,Lot's O' Nuts -> Missouri,35,4.170000,1.44,0,0.000000000000,42.900000000000,33.7
+Lot's O' Nuts,Montana,Lot's O' Nuts -> Montana,8,4.380000,0.52,0,0.000000000000,100.000000000000,NULL
+Lot's O' Nuts,Nebraska,Lot's O' Nuts -> Nebraska,22,3.270000,1.64,0,0.000000000000,63.600000000000,79.6
+Lot's O' Nuts,Nevada,Lot's O' Nuts -> Nevada,24,4.500000,1.93,3,12.500000000000,62.500000000000,16.8
+Lot's O' Nuts,New Hampshire,Lot's O' Nuts -> New Hampshire,13,3.310000,1.49,0,0.000000000000,46.200000000000,77.6
+Lot's O' Nuts,New Jersey,Lot's O' Nuts -> New Jersey,65,4.510000,1.56,7,10.800000000000,70.800000000000,16.3
+Lot's O' Nuts,New Mexico,Lot's O' Nuts -> New Mexico,18,4.830000,1.25,1,5.600000000000,77.800000000000,0.0
+Lot's O' Nuts,New York,Lot's O' Nuts -> New York,625,4.060000,1.75,39,6.200000000000,59.500000000000,39.3
+Lot's O' Nuts,North Carolina,Lot's O' Nuts -> North Carolina,139,4.060000,1.77,10,7.200000000000,65.500000000000,39.3
+Lot's O' Nuts,North Dakota,Lot's O' Nuts -> North Dakota,5,3.200000,1.64,0,0.000000000000,40.000000000000,NULL
+Lot's O' Nuts,Ohio,Lot's O' Nuts -> Ohio,251,3.470000,1.97,13,5.200000000000,47.800000000000,69.4
+Lot's O' Nuts,Oklahoma,Lot's O' Nuts -> Oklahoma,40,4.550000,2.02,4,10.000000000000,72.500000000000,14.3
+Lot's O' Nuts,Oregon,Lot's O' Nuts -> Oregon,74,4.380000,1.6,3,4.100000000000,67.600000000000,23.0
+Lot's O' Nuts,Pennsylvania,Lot's O' Nuts -> Pennsylvania,321,3.840000,1.44,9,2.800000000000,63.200000000000,50.5
+Lot's O' Nuts,Rhode Island,Lot's O' Nuts -> Rhode Island,29,3.280000,1.87,4,13.800000000000,27.600000000000,79.1
+Lot's O' Nuts,South Carolina,Lot's O' Nuts -> South Carolina,20,3.600000,1.7,0,0.000000000000,35.000000000000,62.8
+Lot's O' Nuts,South Dakota,Lot's O' Nuts -> South Dakota,8,4.750000,0.89,0,0.000000000000,87.500000000000,NULL
+Lot's O' Nuts,Tennessee,Lot's O' Nuts -> Tennessee,106,4.310000,1.56,12,11.300000000000,69.800000000000,26.5
+Lot's O' Nuts,Texas,Lot's O' Nuts -> Texas,548,3.930000,1.66,25,4.600000000000,62.400000000000,45.9
+Lot's O' Nuts,Utah,Lot's O' Nuts -> Utah,28,4.430000,1.5,0,0.000000000000,50.000000000000,20.4
+Lot's O' Nuts,Vermont,Lot's O' Nuts -> Vermont,5,3.800000,0.84,0,0.000000000000,100.000000000000,NULL
+Lot's O' Nuts,Virginia,Lot's O' Nuts -> Virginia,107,3.780000,1.61,1,0.900000000000,54.200000000000,53.6
+Lot's O' Nuts,Washington,Lot's O' Nuts -> Washington,260,4.010000,1.91,28,10.800000000000,60.000000000000,41.8
+Lot's O' Nuts,West Virginia,Lot's O' Nuts -> West Virginia,2,2.000000,2.83,0,0.000000000000,50.000000000000,NULL
+Lot's O' Nuts,Wisconsin,Lot's O' Nuts -> Wisconsin,57,3.890000,1.81,2,3.500000000000,68.400000000000,48.0
+Lot's O' Nuts,Wyoming,Lot's O' Nuts -> Wyoming,1,5.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Secret Factory,Alabama,Secret Factory -> Alabama,3,3.000000,1,0,0.000000000000,0.000000000000,NULL
+Secret Factory,Arizona,Secret Factory -> Arizona,5,4.200000,1.3,0,0.000000000000,60.000000000000,NULL
+Secret Factory,Arkansas,Secret Factory -> Arkansas,2,4.500000,0.71,0,0.000000000000,50.000000000000,NULL
+Secret Factory,California,Secret Factory -> California,31,3.610000,1.73,1,3.200000000000,48.400000000000,62.2
+Secret Factory,Colorado,Secret Factory -> Colorado,7,3.000000,2.08,1,14.300000000000,28.600000000000,NULL
+Secret Factory,Connecticut,Secret Factory -> Connecticut,1,3.000000,NULL,0,0.000000000000,0.000000000000,NULL
+Secret Factory,Delaware,Secret Factory -> Delaware,1,5.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Secret Factory,Florida,Secret Factory -> Florida,7,4.000000,1,0,0.000000000000,42.900000000000,NULL
+Secret Factory,Georgia,Secret Factory -> Georgia,7,4.000000,0.82,0,0.000000000000,71.400000000000,NULL
+Secret Factory,Illinois,Secret Factory -> Illinois,13,3.000000,1.68,0,0.000000000000,46.200000000000,93.4
+Secret Factory,Indiana,Secret Factory -> Indiana,4,4.250000,1.71,0,0.000000000000,75.000000000000,NULL
+Secret Factory,Kentucky,Secret Factory -> Kentucky,2,2.500000,0.71,0,0.000000000000,0.000000000000,NULL
+Secret Factory,Louisiana,Secret Factory -> Louisiana,2,4.500000,0.71,0,0.000000000000,50.000000000000,NULL
+Secret Factory,Maryland,Secret Factory -> Maryland,3,4.670000,1.53,0,0.000000000000,66.700000000000,NULL
+Secret Factory,Massachusetts,Secret Factory -> Massachusetts,2,3.000000,1.41,0,0.000000000000,50.000000000000,NULL
+Secret Factory,Michigan,Secret Factory -> Michigan,5,3.800000,2.17,0,0.000000000000,80.000000000000,NULL
+Secret Factory,Minnesota,Secret Factory -> Minnesota,1,5.000000,NULL,0,0.000000000000,0.000000000000,NULL
+Secret Factory,Mississippi,Secret Factory -> Mississippi,1,4.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Secret Factory,Nebraska,Secret Factory -> Nebraska,1,2.000000,NULL,0,0.000000000000,0.000000000000,NULL
+Secret Factory,Nevada,Secret Factory -> Nevada,2,4.500000,3.54,1,50.000000000000,50.000000000000,NULL
+Secret Factory,New Hampshire,Secret Factory -> New Hampshire,1,6.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Secret Factory,New Jersey,Secret Factory -> New Jersey,2,5.500000,2.12,1,50.000000000000,100.000000000000,NULL
+Secret Factory,New Mexico,Secret Factory -> New Mexico,2,2.000000,2.83,0,0.000000000000,50.000000000000,NULL
+Secret Factory,New York,Secret Factory -> New York,24,3.710000,1.73,0,0.000000000000,54.200000000000,57.1
+Secret Factory,North Carolina,Secret Factory -> North Carolina,4,4.500000,3.32,2,50.000000000000,75.000000000000,NULL
+Secret Factory,Ohio,Secret Factory -> Ohio,13,3.770000,1.42,0,0.000000000000,69.200000000000,54.1
+Secret Factory,Oregon,Secret Factory -> Oregon,2,2.500000,0.71,0,0.000000000000,0.000000000000,NULL
+Secret Factory,Pennsylvania,Secret Factory -> Pennsylvania,19,3.580000,1.68,0,0.000000000000,57.900000000000,63.8
+Secret Factory,Rhode Island,Secret Factory -> Rhode Island,3,3.330000,2.31,0,0.000000000000,33.300000000000,NULL
+Secret Factory,South Carolina,Secret Factory -> South Carolina,1,5.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Secret Factory,Tennessee,Secret Factory -> Tennessee,3,4.330000,0.58,0,0.000000000000,100.000000000000,NULL
+Secret Factory,Texas,Secret Factory -> Texas,16,3.380000,1.67,0,0.000000000000,43.800000000000,74.0
+Secret Factory,Utah,Secret Factory -> Utah,1,6.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Secret Factory,Vermont,Secret Factory -> Vermont,1,4.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Secret Factory,Virginia,Secret Factory -> Virginia,5,3.400000,1.95,0,0.000000000000,20.000000000000,NULL
+Secret Factory,Washington,Secret Factory -> Washington,11,3.730000,2,1,9.100000000000,45.500000000000,56.1
+Secret Factory,Wisconsin,Secret Factory -> Wisconsin,5,4.200000,1.3,0,0.000000000000,60.000000000000,NULL
+Sugar Shack,Arizona,Sugar Shack -> Arizona,1,5.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Sugar Shack,California,Sugar Shack -> California,1,3.000000,NULL,0,0.000000000000,0.000000000000,NULL
+Sugar Shack,Connecticut,Sugar Shack -> Connecticut,1,6.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Sugar Shack,Delaware,Sugar Shack -> Delaware,1,6.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Sugar Shack,Florida,Sugar Shack -> Florida,3,5.330000,0.58,0,0.000000000000,100.000000000000,NULL
+Sugar Shack,Illinois,Sugar Shack -> Illinois,2,2.500000,0.71,0,0.000000000000,0.000000000000,NULL
+Sugar Shack,Michigan,Sugar Shack -> Michigan,3,4.000000,1,0,0.000000000000,66.700000000000,NULL
+Sugar Shack,New Jersey,Sugar Shack -> New Jersey,1,7.000000,NULL,1,100.000000000000,100.000000000000,NULL
+Sugar Shack,New York,Sugar Shack -> New York,9,4.220000,1.48,0,0.000000000000,66.700000000000,NULL
+Sugar Shack,Ohio,Sugar Shack -> Ohio,2,2.500000,3.54,0,0.000000000000,50.000000000000,NULL
+Sugar Shack,Pennsylvania,Sugar Shack -> Pennsylvania,3,5.330000,0.58,0,0.000000000000,100.000000000000,NULL
+Sugar Shack,Rhode Island,Sugar Shack -> Rhode Island,1,4.000000,NULL,0,0.000000000000,100.000000000000,NULL
+Sugar Shack,Tennessee,Sugar Shack -> Tennessee,1,3.000000,NULL,0,0.000000000000,0.000000000000,NULL
+Sugar Shack,Texas,Sugar Shack -> Texas,3,4.330000,1.53,0,0.000000000000,66.700000000000,NULL
+Sugar Shack,Washington,Sugar Shack -> Washington,1,3.000000,NULL,0,0.000000000000,100.000000000000,NULL
+The Other Factory,Alabama,The Other Factory -> Alabama,2,5.000000,1.41,0,0.000000000000,100.000000000000,NULL
+The Other Factory,Arizona,The Other Factory -> Arizona,2,2.500000,0.71,0,0.000000000000,0.000000000000,NULL
+The Other Factory,California,The Other Factory -> California,21,3.520000,1.81,0,0.000000000000,52.400000000000,66.8
+The Other Factory,Colorado,The Other Factory -> Colorado,2,4.500000,2.12,0,0.000000000000,50.000000000000,NULL
+The Other Factory,Connecticut,The Other Factory -> Connecticut,2,3.500000,2.12,0,0.000000000000,50.000000000000,NULL
+The Other Factory,Delaware,The Other Factory -> Delaware,2,4.500000,2.12,0,0.000000000000,50.000000000000,NULL
+The Other Factory,Florida,The Other Factory -> Florida,3,3.670000,2.08,0,0.000000000000,33.300000000000,NULL
+The Other Factory,Georgia,The Other Factory -> Georgia,2,4.000000,0,0,0.000000000000,100.000000000000,NULL
+The Other Factory,Indiana,The Other Factory -> Indiana,1,5.000000,NULL,0,0.000000000000,100.000000000000,NULL
+The Other Factory,Kentucky,The Other Factory -> Kentucky,2,1.500000,2.12,0,0.000000000000,0.000000000000,NULL
+The Other Factory,Louisiana,The Other Factory -> Louisiana,1,3.000000,NULL,0,0.000000000000,0.000000000000,NULL
+The Other Factory,Maryland,The Other Factory -> Maryland,1,5.000000,NULL,0,0.000000000000,100.000000000000,NULL
+The Other Factory,Massachusetts,The Other Factory -> Massachusetts,3,3.330000,0.58,0,0.000000000000,33.300000000000,NULL
+The Other Factory,Missouri,The Other Factory -> Missouri,1,6.000000,NULL,0,0.000000000000,100.000000000000,NULL
+The Other Factory,Nevada,The Other Factory -> Nevada,1,3.000000,NULL,0,0.000000000000,0.000000000000,NULL
+The Other Factory,New Hampshire,The Other Factory -> New Hampshire,2,2.000000,0,0,0.000000000000,0.000000000000,NULL
+The Other Factory,New Jersey,The Other Factory -> New Jersey,3,4.330000,0.58,0,0.000000000000,100.000000000000,NULL
+The Other Factory,New York,The Other Factory -> New York,14,4.210000,1.67,0,0.000000000000,71.400000000000,31.6
+The Other Factory,North Carolina,The Other Factory -> North Carolina,1,0.000000,NULL,0,0.000000000000,0.000000000000,NULL
+The Other Factory,Ohio,The Other Factory -> Ohio,3,3.000000,1.73,0,0.000000000000,33.300000000000,NULL
+The Other Factory,Oregon,The Other Factory -> Oregon,2,2.500000,0.71,0,0.000000000000,0.000000000000,NULL
+The Other Factory,Pennsylvania,The Other Factory -> Pennsylvania,7,3.860000,2.67,2,28.600000000000,57.100000000000,NULL
+The Other Factory,Rhode Island,The Other Factory -> Rhode Island,1,4.000000,NULL,0,0.000000000000,100.000000000000,NULL
+The Other Factory,South Carolina,The Other Factory -> South Carolina,1,4.000000,NULL,0,0.000000000000,0.000000000000,NULL
+The Other Factory,Tennessee,The Other Factory -> Tennessee,3,4.670000,2.52,1,33.300000000000,66.700000000000,NULL
+The Other Factory,Texas,The Other Factory -> Texas,9,3.440000,1.01,0,0.000000000000,55.600000000000,NULL
+The Other Factory,Virginia,The Other Factory -> Virginia,4,2.750000,1.89,0,0.000000000000,50.000000000000,NULL
+The Other Factory,Washington,The Other Factory -> Washington,4,5.750000,1.5,2,50.000000000000,100.000000000000,NULL
+Wicked Choccy's,Alabama,Wicked Choccy's -> Alabama,22,3.500000,1.41,0,0.000000000000,40.900000000000,67.9
+Wicked Choccy's,Arizona,Wicked Choccy's -> Arizona,103,4.090000,2.03,12,11.700000000000,60.200000000000,37.8
+Wicked Choccy's,Arkansas,Wicked Choccy's -> Arkansas,25,4.280000,2.13,6,24.000000000000,68.000000000000,28.1
+Wicked Choccy's,California,Wicked Choccy's -> California,796,3.990000,1.73,55,6.900000000000,62.200000000000,42.9
+Wicked Choccy's,Colorado,Wicked Choccy's -> Colorado,65,3.580000,1.41,0,0.000000000000,58.500000000000,63.8
+Wicked Choccy's,Connecticut,Wicked Choccy's -> Connecticut,31,3.610000,2.26,3,9.700000000000,51.600000000000,62.2
+Wicked Choccy's,Delaware,Wicked Choccy's -> Delaware,46,4.610000,1.48,2,4.300000000000,65.200000000000,11.2
+Wicked Choccy's,District of Columbia,Wicked Choccy's -> District of Columbia,2,6.000000,0,0,0.000000000000,100.000000000000,NULL
+Wicked Choccy's,Florida,Wicked Choccy's -> Florida,153,4.050000,1.9,14,9.200000000000,63.400000000000,39.8
+Wicked Choccy's,Georgia,Wicked Choccy's -> Georgia,63,3.790000,1.9,4,6.300000000000,60.300000000000,53.1
+Wicked Choccy's,Idaho,Wicked Choccy's -> Idaho,7,3.430000,1.4,0,0.000000000000,57.100000000000,NULL
+Wicked Choccy's,Illinois,Wicked Choccy's -> Illinois,203,4.150000,1.74,10,4.900000000000,64.500000000000,34.7
+Wicked Choccy's,Indiana,Wicked Choccy's -> Indiana,53,4.550000,1.49,4,7.500000000000,73.600000000000,14.3
+Wicked Choccy's,Iowa,Wicked Choccy's -> Iowa,14,3.930000,2.02,1,7.100000000000,57.100000000000,45.9
+Wicked Choccy's,Kansas,Wicked Choccy's -> Kansas,8,3.630000,2,1,12.500000000000,62.500000000000,NULL
+Wicked Choccy's,Kentucky,Wicked Choccy's -> Kentucky,54,4.170000,1.55,3,5.600000000000,59.300000000000,33.7
+Wicked Choccy's,Louisiana,Wicked Choccy's -> Louisiana,15,2.870000,1.51,0,0.000000000000,20.000000000000,100.0
+Wicked Choccy's,Maine,Wicked Choccy's -> Maine,2,4.000000,0,0,0.000000000000,100.000000000000,NULL
+Wicked Choccy's,Maryland,Wicked Choccy's -> Maryland,39,3.950000,1.78,1,2.600000000000,64.100000000000,44.9
+Wicked Choccy's,Massachusetts,Wicked Choccy's -> Massachusetts,52,4.270000,1.4,4,7.700000000000,65.400000000000,28.6
+Wicked Choccy's,Michigan,Wicked Choccy's -> Michigan,98,4.340000,1.88,10,10.200000000000,70.400000000000,25.0
+Wicked Choccy's,Minnesota,Wicked Choccy's -> Minnesota,42,4.520000,1.97,8,19.000000000000,61.900000000000,15.8
+Wicked Choccy's,Mississippi,Wicked Choccy's -> Mississippi,21,4.480000,1.47,0,0.000000000000,81.000000000000,17.9
+Wicked Choccy's,Missouri,Wicked Choccy's -> Missouri,28,3.930000,1.56,1,3.600000000000,39.300000000000,45.9
+Wicked Choccy's,Montana,Wicked Choccy's -> Montana,7,4.570000,2.64,3,42.900000000000,71.400000000000,NULL
+Wicked Choccy's,Nebraska,Wicked Choccy's -> Nebraska,14,4.000000,2.04,1,7.100000000000,50.000000000000,42.3
+Wicked Choccy's,Nevada,Wicked Choccy's -> Nevada,12,4.420000,1.93,3,25.000000000000,41.700000000000,20.9
+Wicked Choccy's,New Hampshire,Wicked Choccy's -> New Hampshire,11,4.360000,1.63,1,9.100000000000,63.600000000000,24.0
+Wicked Choccy's,New Jersey,Wicked Choccy's -> New Jersey,57,4.280000,1.59,4,7.000000000000,66.700000000000,28.1
+Wicked Choccy's,New Mexico,Wicked Choccy's -> New Mexico,17,4.530000,1.01,0,0.000000000000,64.700000000000,15.3
+Wicked Choccy's,New York,Wicked Choccy's -> New York,420,4.060000,1.8,24,5.700000000000,61.200000000000,39.3
+Wicked Choccy's,North Carolina,Wicked Choccy's -> North Carolina,100,3.870000,1.74,4,4.000000000000,58.000000000000,49.0
+Wicked Choccy's,North Dakota,Wicked Choccy's -> North Dakota,2,2.000000,0,0,0.000000000000,0.000000000000,NULL
+Wicked Choccy's,Ohio,Wicked Choccy's -> Ohio,180,3.520000,1.86,9,5.000000000000,50.000000000000,66.8
+Wicked Choccy's,Oklahoma,Wicked Choccy's -> Oklahoma,25,4.280000,2.11,2,8.000000000000,72.000000000000,28.1
+Wicked Choccy's,Oregon,Wicked Choccy's -> Oregon,42,4.480000,1.63,2,4.800000000000,71.400000000000,17.9
+Wicked Choccy's,Pennsylvania,Wicked Choccy's -> Pennsylvania,220,3.940000,1.58,14,6.400000000000,62.700000000000,45.4
+Wicked Choccy's,Rhode Island,Wicked Choccy's -> Rhode Island,21,3.330000,1.83,2,9.500000000000,28.600000000000,76.5
+Wicked Choccy's,South Carolina,Wicked Choccy's -> South Carolina,18,3.670000,1.68,0,0.000000000000,38.900000000000,59.2
+Wicked Choccy's,South Dakota,Wicked Choccy's -> South Dakota,2,4.500000,0.71,0,0.000000000000,50.000000000000,NULL
+Wicked Choccy's,Tennessee,Wicked Choccy's -> Tennessee,67,4.480000,1.34,5,7.500000000000,79.100000000000,17.9
+Wicked Choccy's,Texas,Wicked Choccy's -> Texas,376,3.930000,1.75,18,4.800000000000,59.300000000000,45.9
+Wicked Choccy's,Utah,Wicked Choccy's -> Utah,23,4.170000,1.64,0,0.000000000000,52.200000000000,33.7
+Wicked Choccy's,Vermont,Wicked Choccy's -> Vermont,5,3.200000,0.84,0,0.000000000000,80.000000000000,NULL
+Wicked Choccy's,Virginia,Wicked Choccy's -> Virginia,102,4.080000,1.63,5,4.900000000000,57.800000000000,38.3
+Wicked Choccy's,Washington,Wicked Choccy's -> Washington,218,3.890000,2,28,12.800000000000,55.500000000000,48.0
+Wicked Choccy's,West Virginia,Wicked Choccy's -> West Virginia,2,4.000000,0,0,0.000000000000,100.000000000000,NULL
+Wicked Choccy's,Wisconsin,Wicked Choccy's -> Wisconsin,47,4.190000,1.5,0,0.000000000000,72.300000000000,32.7
