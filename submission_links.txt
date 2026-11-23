@@ -1,0 +1,5 @@
+1. GitHub repository: https://github.com/luckysachdeva993-eng/nassau-candy-route-analysis
+2. Research paper link: 
+3. Deployed project link: https://4ysu8fhnmqbubysm4eaxn7.streamlit.app/
+4. Project explanation video: 
+5. Internship experience and feedback video: 
